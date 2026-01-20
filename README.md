@@ -26,4 +26,6 @@ In addition, the project evaluates the relationship between selected variables t
 Website Link: https://bilgi-ie-421.github.io/ie421-2025-2026-1-termproject-long_boi/  
 Website GitHub Repository: https://github.com/BILGI-IE-421/ie421-2025-2026-1-termproject-long_boi 
 
+## Dataset Drive
+https://drive.google.com/drive/folders/1weyAcFn52j2p40bi-5ycRLmCePjVT2KY?usp=sharing
 
